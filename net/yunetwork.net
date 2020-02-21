@@ -1,0 +1,9 @@
+*vertices 4
+1 "Larry.Campbell Employee" 0.0 0.0 ellipse
+2 "Kevin.Hyatt Director" 0.0 0.0 ellipse
+3 "Kimberly.Watson N/A" 0.0 0.0 ellipse
+4 "Lindy.Donoho Employee" 0.0 0.0 ellipse
+*edges
+1 2 1.0
+2 3 1.0
+2 4 1.0
